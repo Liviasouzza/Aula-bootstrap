@@ -1,0 +1,36 @@
+body{
+    
+}
+
+.navbar{
+    background-color: rgb(26, 219, 113);
+    font: 20px geogia;
+}
+.quem-somos{
+    background-color: rgb(220, 224, 7);
+    color: rgb(5, 5, 100);
+    font: 20px arial;
+   
+}
+
+.margin{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.textos{
+    background-color: darkblue;
+    color: white;
+}
+.curiosidades{
+    background-color: rgb(2, 177, 17);
+    color: rgb(241, 241, 227);
+    
+}
+.t{
+    font-size: 30px;
+    color: rgb(238, 241, 9);
+}
+.bg-footer{
+    background-color: rgb(233, 210, 7);
+    color: rgb(13, 10, 177);
+}
